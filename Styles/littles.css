@@ -1,0 +1,36 @@
+.flex {
+    display: flex;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+.gap {
+    gap: 5vw;
+}
+
+.absolute {
+    position: fixed;
+}
+
+.list-style-none {
+    list-style-type: none;
+}
+
+.pointer {
+    cursor: pointer;
+}
+
+.center {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.flex {
+    display: flex;
+}
